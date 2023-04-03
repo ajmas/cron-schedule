@@ -27,7 +27,7 @@
     "nodejs"
   ],
   "type": "module",
-  "packageManager": "yarn@3.2.0",
+  "packageManager": "yarn@3.5.0",
   "engines": {
     "node": ">=16"
   },
@@ -89,9 +89,9 @@
   "devDependencies": {
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
-    "@typescript-eslint/eslint-plugin": "5.57.0",
-    "@typescript-eslint/parser": "5.57.0",
-    "@typescript-eslint/typescript-estree": "5.57.0",
+    "@typescript-eslint/eslint-plugin": "5.57.1",
+    "@typescript-eslint/parser": "5.57.1",
+    "@typescript-eslint/typescript-estree": "5.57.1",
     "eslint": "8.37.0",
     "eslint-config-prettier": "8.8.0",
     "eslint-plugin-import": "2.27.5",
@@ -99,8 +99,8 @@
     "eslint-plugin-security": "1.7.1",
     "prettier": "2.8.7",
     "rimraf": "4.4.1",
-    "semantic-release": "21.0.0",
-    "typescript": "5.0.2",
+    "semantic-release": "21.0.1",
+    "typescript": "5.0.3",
     "vitest": "0.29.8"
   }
 }
